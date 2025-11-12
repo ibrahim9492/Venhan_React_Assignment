@@ -39,42 +39,7 @@ A code editor like VS Code
 
    npm start
 
-# 📁 Folder Structure
-
-Venhan_React_Assignment/
-│
-├── src/
-│   
-├── components/
-│   │   
-├── DiagramFlow.jsx       # Main React Flow component
-│   │   
-├── Sidebar.jsx           # Sidebar for node/edge metadata input
-│   │   
-└── NodeEditor.jsx        # Modal or component for editing nodes
-│   │
-│   ├── context/
-│   │   
-        └── FlowContext.jsx       # Context for managing nodes/edges state
-│   │
-│   ├── data/
-│   │   
-        └── initialData.json      # Default JSON schema for nodes & edges
-│   │
-│   ├── App.jsx                   # Root app component
-│   
-    ├── index.jsx                 # Entry point
-│   
-    └── styles/
-│   
-        └── App.css               # Custom styling
-│
-├── package.json
-
-└── README.md
-
-
-# ⚙️ Features
+## ⚙️ Features
 
 ✅ Dynamic Diagram Generation – Renders diagrams dynamically based on JSON metadata
 ✅ Interactive Nodes & Edges – Add, remove, and edit flow elements
