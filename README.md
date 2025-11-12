@@ -44,30 +44,24 @@ A code editor like VS Code
 Venhan_React_Assignment/
 │
 ├── src/
-│    
-    ├── components/
 │   
-    │   ├── DiagramFlow.jsx       # Main React Flow component
-│   
-    │   ├── Sidebar.jsx           # Sidebar for node/edge metadata input
-│   
-    │   └── NodeEditor.jsx        # Modal or component for editing nodes
-│   
-    │
-│   
-    ├── context/
-│   
-    │   └── FlowContext.jsx       # Context for managing nodes/edges state
-│   
-    │
-│   
-    ├── data/
-│   
-    │   └── initialData.json      # Default JSON schema for nodes & edges
-│   
-    │
-│   
-    ├── App.jsx                   # Root app component
+├── components/
+│   │   
+├── DiagramFlow.jsx       # Main React Flow component
+│   │   
+├── Sidebar.jsx           # Sidebar for node/edge metadata input
+│   │   
+└── NodeEditor.jsx        # Modal or component for editing nodes
+│   │
+│   ├── context/
+│   │   
+        └── FlowContext.jsx       # Context for managing nodes/edges state
+│   │
+│   ├── data/
+│   │   
+        └── initialData.json      # Default JSON schema for nodes & edges
+│   │
+│   ├── App.jsx                   # Root app component
 │   
     ├── index.jsx                 # Entry point
 │   
@@ -78,6 +72,7 @@ Venhan_React_Assignment/
 ├── package.json
 
 └── README.md
+
 
 # ⚙️ Features
 
