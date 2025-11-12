@@ -42,9 +42,13 @@ A code editor like VS Code
 ## ⚙️ Features
 
 ✅ Dynamic Diagram Generation – Renders diagrams dynamically based on JSON metadata
+
 ✅ Interactive Nodes & Edges – Add, remove, and edit flow elements
+
 ✅ Sidebar Editor – Modify metadata for selected nodes/edges
+
 ✅ Context API Integration – Centralized state management
+
 ✅ Responsive Layout – Adapts across screen sizes
 
 # 🧠 Technologies Used
